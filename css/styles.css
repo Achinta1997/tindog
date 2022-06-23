@@ -1,0 +1,37 @@
+/* -----------id selector------------ */
+#title{
+  background-color: #ff4c68;
+}
+
+/* -------element selector------ */
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  margin-top: 60px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+/* --------class selector---------- */
+.navbar{
+  margin-bottom: 50px;
+}
+
+.navbar-brand{
+  margin-left: 10px;
+  font-size: 40px;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.dog-rotate{
+  -webkit-transform:rotate(30deg); /* Chrome, Safari, Opera */
+-moz-transform: rotate(30deg);
+-ms-transform: rotate(30deg);
+-o-transform: rotate(30deg);
+transform: rotate(30deg);   /* Standard syntax */
+}
