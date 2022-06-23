@@ -33,5 +33,6 @@ h1{
 -moz-transform: rotate(30deg);
 -ms-transform: rotate(30deg);
 -o-transform: rotate(30deg);
-transform: rotate(30deg);   /* Standard syntax */
+transform: rotate(30deg); 
+  padding-top: 30px;/* Standard syntax */
 }
